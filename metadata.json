@@ -1,0 +1,6 @@
+{
+  "name": "BâtiCirculaire - Smart City & Économie Circulaire",
+  "description": "Plateforme Smart City reliant chantiers, citoyens et collectivités pour valoriser les surplus de matériaux du BTP, alimenter les projets d'espaces publics et éviter le gaspillage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
